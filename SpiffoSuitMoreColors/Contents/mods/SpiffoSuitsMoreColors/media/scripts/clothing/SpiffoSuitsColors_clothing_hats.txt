@@ -1,0 +1,170 @@
+module SpiffoSuitsColors {
+  imports {
+      Base
+  }
+item Hat_Spiffo_Stitches
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Spiffo Suit Head Stitches,
+		ClothingItem = Hat_Spiffo_Stitches,
+		BodyLocation = FullHat,
+		Icon = SpiffoHeadStitches,
+		CanHaveHoles = false,
+		ChanceToFall = 10,
+        BloodLocation = Head,
+        Insulation = 0.75,
+        WindResistance = 0.75,
+        WaterResistance = 0.75,
+    }
+item Hat_Spiffo_Green
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Spiffo Suit Head Green,
+		ClothingItem = Hat_Spiffo_Green,
+		BodyLocation = FullHat,
+		Icon = SpiffoHeadGreen,
+		CanHaveHoles = false,
+		ChanceToFall = 10,
+        BloodLocation = Head,
+        Insulation = 0.75,
+        WindResistance = 0.75,
+        WaterResistance = 0.75,
+    }
+item Hat_Spiffo_Red
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Spiffo Suit Head Red,
+		ClothingItem = Hat_Spiffo_Red,
+		BodyLocation = FullHat,
+		Icon = SpiffoHeadRed,
+		CanHaveHoles = false,
+		ChanceToFall = 10,
+        BloodLocation = Head,
+        Insulation = 0.75,
+        WindResistance = 0.75,
+        WaterResistance = 0.75,
+    }
+item Hat_Spiffo_Blue
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Spiffo Suit Head Blue,
+		ClothingItem = Hat_Spiffo_Blue,
+		BodyLocation = FullHat,
+		Icon = SpiffoHeadBlue,
+		CanHaveHoles = false,
+		ChanceToFall = 10,
+        BloodLocation = Head,
+        Insulation = 0.75,
+        WindResistance = 0.75,
+        WaterResistance = 0.75,
+    }
+item Hat_Spiffo_Yellow
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Spiffo Suit Head Yellow,
+		ClothingItem = Hat_Spiffo_Yellow,
+		BodyLocation = FullHat,
+		Icon = SpiffoHeadYellow,
+		CanHaveHoles = false,
+		ChanceToFall = 10,
+        BloodLocation = Head,
+        Insulation = 0.75,
+        WindResistance = 0.75,
+        WaterResistance = 0.75,
+    }
+item Hat_Spiffo_Indigo
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Spiffo Suit Head Indigo,
+		ClothingItem = Hat_Spiffo_Indigo,
+		BodyLocation = FullHat,
+		Icon = SpiffoHeadIndigo,
+		CanHaveHoles = false,
+		ChanceToFall = 10,
+        BloodLocation = Head,
+        Insulation = 0.75,
+        WindResistance = 0.75,
+        WaterResistance = 0.75,
+    }
+item Hat_Spiffo_Pink
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Spiffo Suit Head Pink,
+		ClothingItem = Hat_Spiffo_Pink,
+		BodyLocation = FullHat,
+		Icon = SpiffoHeadPink,
+		CanHaveHoles = false,
+		ChanceToFall = 10,
+        BloodLocation = Head,
+        Insulation = 0.75,
+        WindResistance = 0.75,
+        WaterResistance = 0.75,
+    }
+item Hat_Spiffo_Rainbow
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Spiffo Suit Head Rainbow,
+		ClothingItem = Hat_Spiffo_Rainbow,
+		BodyLocation = FullHat,
+		Icon = SpiffoHeadRainbow,
+		CanHaveHoles = false,
+		ChanceToFall = 10,
+        BloodLocation = Head,
+        Insulation = 0.75,
+        WindResistance = 0.75,
+        WaterResistance = 0.75,
+    }
+item Hat_Spiffo_Black
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Spiffo Suit Head Black,
+		ClothingItem = Hat_Spiffo_Black,
+		BodyLocation = FullHat,
+		Icon = SpiffoHeadBlack,
+		CanHaveHoles = false,
+		ChanceToFall = 10,
+        BloodLocation = Head,
+        Insulation = 0.75,
+        WindResistance = 0.75,
+        WaterResistance = 0.75,
+    }
+item Hat_Spiffo_White
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Spiffo Suit Head White,
+		ClothingItem = Hat_Spiffo_White,
+		BodyLocation = FullHat,
+		Icon = SpiffoHeadWhite,
+		CanHaveHoles = false,
+		ChanceToFall = 10,
+        BloodLocation = Head,
+        Insulation = 0.75,
+        WindResistance = 0.75,
+        WaterResistance = 0.75,
+    }
+item Hat_Spiffo_Inverted
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Spiffo Suit Head Inverted,
+		ClothingItem = Hat_Spiffo_Inverted,
+		BodyLocation = FullHat,
+		Icon = SpiffoHeadInverted,
+		CanHaveHoles = false,
+		ChanceToFall = 10,
+        BloodLocation = Head,
+        Insulation = 0.75,
+        WindResistance = 0.75,
+        WaterResistance = 0.75,
+    }
+}

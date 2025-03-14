@@ -1,0 +1,130 @@
+module Base
+{
+
+    model SpiffoTailStitches_Ground
+    {
+        mesh = WorldItems/SpiffoTail_Ground,
+        texture = Clothes\SpiffoSuit\SpiffoSuitStitches,
+        scale = 0.4,
+    }   
+    model SpiffoSuitGreen_Ground
+    {
+        mesh = WorldItems/Clothing/SpiffoSuit_Ground,
+        texture = Clothes\SpiffoSuit\SpiffoSuitGreen,
+        scale = 0.4,
+    }
+    model SpiffoTailGreen_Ground
+    {
+        mesh = WorldItems/SpiffoTail_Ground,
+        texture = Clothes\SpiffoSuit\SpiffoSuitGreen,
+        scale = 0.4,
+    }
+    model SpiffoSuitRed_Ground
+    {
+        mesh = WorldItems/Clothing/SpiffoSuit_Ground,
+        texture = Clothes\SpiffoSuit\SpiffoSuitRed,
+        scale = 0.4,
+    }
+    model SpiffoTailRed_Ground
+    {
+        mesh = WorldItems/SpiffoTail_Ground,
+        texture = Clothes\SpiffoSuit\SpiffoSuitRed,
+        scale = 0.4,
+    }
+    model SpiffoSuitBlue_Ground
+    {
+        mesh = WorldItems/Clothing/SpiffoSuit_Ground,
+        texture = Clothes\SpiffoSuit\SpiffoSuitBlue,
+        scale = 0.4,
+    }
+    model SpiffoTailBlue_Ground
+    {
+        mesh = WorldItems/SpiffoTail_Ground,
+        texture = Clothes\SpiffoSuit\SpiffoSuitBlue,
+        scale = 0.4,
+    }
+    model SpiffoSuitYellow_Ground
+    {
+        mesh = WorldItems/Clothing/SpiffoSuit_Ground,
+        texture = Clothes\SpiffoSuit\SpiffoSuitYellow,
+        scale = 0.4,
+    }
+    model SpiffoTailYellow_Ground
+    {
+        mesh = WorldItems/SpiffoTail_Ground,
+        texture = Clothes\SpiffoSuit\SpiffoSuitYellow,
+        scale = 0.4,
+    }
+    model SpiffoSuitIndigo_Ground
+    {
+        mesh = WorldItems/Clothing/SpiffoSuit_Ground,
+        texture = Clothes\SpiffoSuit\SpiffoSuitIndigo,
+        scale = 0.4,
+    }
+    model SpiffoTailIndigo_Ground
+    {
+        mesh = WorldItems/SpiffoTail_Ground,
+        texture = Clothes\SpiffoSuit\SpiffoSuitIndigo,
+        scale = 0.4,
+    }
+    model SpiffoSuitPink_Ground
+    {
+        mesh = WorldItems/Clothing/SpiffoSuit_Ground,
+        texture = Clothes\SpiffoSuit\SpiffoSuitPink,
+        scale = 0.4,
+    }
+    model SpiffoTailPink_Ground
+    {
+        mesh = WorldItems/SpiffoTail_Ground,
+        texture = Clothes\SpiffoSuit\SpiffoSuitPink,
+        scale = 0.4,
+    }
+    model SpiffoSuitRainbow_Ground
+    {
+        mesh = WorldItems/Clothing/SpiffoSuit_Ground,
+        texture = Clothes\SpiffoSuit\SpiffoSuitRainbow,
+        scale = 0.4,
+    }
+    model SpiffoTailRainbow_Ground
+    {
+        mesh = WorldItems/SpiffoTail_Ground,
+        texture = Clothes\SpiffoSuit\SpiffoSuitRainbow,
+        scale = 0.4,
+    }
+    model SpiffoSuitBlack_Ground
+    {
+        mesh = WorldItems/Clothing/SpiffoSuit_Ground,
+        texture = Clothes\SpiffoSuit\SpiffoSuitBlack,
+        scale = 0.4,
+    }
+    model SpiffoTailBlack_Ground
+    {
+        mesh = WorldItems/SpiffoTail_Ground,
+        texture = Clothes\SpiffoSuit\SpiffoSuitBlack,
+        scale = 0.4,
+    }
+    model SpiffoSuitWhite_Ground
+    {
+        mesh = WorldItems/Clothing/SpiffoSuit_Ground,
+        texture = Clothes\SpiffoSuit\SpiffoSuitWhite,
+        scale = 0.4,
+    }
+    model SpiffoTailWhite_Ground
+    {
+        mesh = WorldItems/SpiffoTail_Ground,
+        texture = Clothes\SpiffoSuit\SpiffoSuitWhite,
+        scale = 0.4,
+    }
+    model SpiffoSuitInverted_Ground
+    {
+        mesh = WorldItems/Clothing/SpiffoSuit_Ground,
+        texture = Clothes\SpiffoSuit\SpiffoSuitInverted,
+        scale = 0.4,
+    }
+    model SpiffoTailInverted_Ground
+    {
+        mesh = WorldItems/SpiffoTail_Ground,
+        texture = Clothes\SpiffoSuit\SpiffoSuitInverted,
+        scale = 0.4,
+    }
+}

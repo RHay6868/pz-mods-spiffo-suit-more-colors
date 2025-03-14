@@ -1,0 +1,280 @@
+module SpiffoSuitsColors {
+  imports {
+      Base
+  }
+    item SpiffoSuit_Stitches
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Stitches,
+        ClothingItem = SpiffoSuit_Stitches,
+        BodyLocation = FullSuit,
+        BloodLocation = Trousers;Jumper,
+        Icon = SpiffoSuitStitches,
+        RunSpeedModifier = 0.7,
+        ScratchDefense = 10,
+        Insulation = 0.85,
+        WindResistance = 0.6,
+        WorldStaticModel = SpiffoSuitStitches_Ground,
+    }
+    item SpiffoTail_Stitches
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Tail Stitches,
+        ClothingItem = SpiffoTail_Stitches,
+        BodyLocation = Tail,
+        Icon = SpiffoTailStitches,
+        WorldStaticModel = SpiffoTailStitches_Ground,
+    }
+    item SpiffoSuit_Green
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Green,
+        ClothingItem = SpiffoSuit_Green,
+        BodyLocation = FullSuit,
+        BloodLocation = Trousers;Jumper,
+        Icon = SpiffoSuitGreen,
+        RunSpeedModifier = 0.7,
+        ScratchDefense = 10,
+        Insulation = 0.85,
+        WindResistance = 0.6,
+        WorldStaticModel = SpiffoSuitGreen_Ground,
+    }
+    item SpiffoTail_Green
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Tail Green,
+        ClothingItem = SpiffoTail_Green,
+        BodyLocation = Tail,
+        Icon = SpiffoTailGreen,
+        WorldStaticModel = SpiffoTailGreen_Ground,
+    }
+ item SpiffoSuit_Red
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Red,
+        ClothingItem = SpiffoSuit_Red,
+        BodyLocation = FullSuit,
+        BloodLocation = Trousers;Jumper,
+        Icon = SpiffoSuitRed,
+        RunSpeedModifier = 0.7,
+        ScratchDefense = 10,
+        Insulation = 0.85,
+        WindResistance = 0.6,
+        WorldStaticModel = SpiffoSuitRed_Ground,
+    }
+    item SpiffoTail_Red
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Tail Red,
+        ClothingItem = SpiffoTail_Red,
+        BodyLocation = Tail,
+        Icon = SpiffoTailRed,
+        WorldStaticModel = SpiffoTailRed_Ground,
+    }
+ item SpiffoSuit_Blue
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Blue,
+        ClothingItem = SpiffoSuit_Blue,
+        BodyLocation = FullSuit,
+        BloodLocation = Trousers;Jumper,
+        Icon = SpiffoSuitBlue,
+        RunSpeedModifier = 0.7,
+        ScratchDefense = 10,
+        Insulation = 0.85,
+        WindResistance = 0.6,
+        WorldStaticModel = SpiffoSuitBlue_Ground,
+    }
+    item SpiffoTail_Blue
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Tail Blue,
+        ClothingItem = SpiffoTail_Blue,
+        BodyLocation = Tail,
+        Icon = SpiffoTailBlue,
+        WorldStaticModel = SpiffoTailBlue_Ground,
+    }
+ item SpiffoSuit_Yellow
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Yellow,
+        ClothingItem = SpiffoSuit_Yellow,
+        BodyLocation = FullSuit,
+        BloodLocation = Trousers;Jumper,
+        Icon = SpiffoSuitYellow,
+        RunSpeedModifier = 0.7,
+        ScratchDefense = 10,
+        Insulation = 0.85,
+        WindResistance = 0.6,
+        WorldStaticModel = SpiffoSuitYellow_Ground,
+    }
+    item SpiffoTail_Yellow
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Tail Yellow,
+        ClothingItem = SpiffoTail_Yellow,
+        BodyLocation = Tail,
+        Icon = SpiffoTailYellow,
+        WorldStaticModel = SpiffoTailYellow_Ground,
+    }
+ item SpiffoSuit_Indigo
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Indigo,
+        ClothingItem = SpiffoSuit_Indigo,
+        BodyLocation = FullSuit,
+        BloodLocation = Trousers;Jumper,
+        Icon = SpiffoSuitIndigo,
+        RunSpeedModifier = 0.7,
+        ScratchDefense = 10,
+        Insulation = 0.85,
+        WindResistance = 0.6,
+        WorldStaticModel = SpiffoSuitIndigo_Ground,
+    }
+    item SpiffoTail_Indigo
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Tail Indigo,
+        ClothingItem = SpiffoTail_Indigo,
+        BodyLocation = Tail,
+        Icon = SpiffoTailIndigo,
+        WorldStaticModel = SpiffoTailIndigo_Ground,
+    }
+    item SpiffoSuit_Pink
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Pink,
+        ClothingItem = SpiffoSuit_Pink,
+        BodyLocation = FullSuit,
+        BloodLocation = Trousers;Jumper,
+        Icon = SpiffoSuitPink,
+        RunSpeedModifier = 0.7,
+        ScratchDefense = 10,
+        Insulation = 0.85,
+        WindResistance = 0.6,
+        WorldStaticModel = SpiffoSuitPink_Ground,
+    }
+    item SpiffoTail_Pink
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Tail Pink,
+        ClothingItem = SpiffoTail_Pink,
+        BodyLocation = Tail,
+        Icon = SpiffoTailPink,
+        WorldStaticModel = SpiffoTailPink_Ground,
+    }
+   item SpiffoSuit_Rainbow
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Rainbow,
+        ClothingItem = SpiffoSuit_Rainbow,
+        BodyLocation = FullSuit,
+        BloodLocation = Trousers;Jumper,
+        Icon = SpiffoSuitRainbow,
+        RunSpeedModifier = 0.7,
+        ScratchDefense = 10,
+        Insulation = 0.85,
+        WindResistance = 0.6,
+        WorldStaticModel = SpiffoSuitRainbow_Ground,
+    }
+    item SpiffoTail_Rainbow
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Tail Rainbow,
+        ClothingItem = SpiffoTail_Rainbow,
+        BodyLocation = Tail,
+        Icon = SpiffoTailRainbow,
+        WorldStaticModel = SpiffoTailRainbow_Ground,
+    }
+   item SpiffoSuit_Black
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Black,
+        ClothingItem = SpiffoSuit_Black,
+        BodyLocation = FullSuit,
+        BloodLocation = Trousers;Jumper,
+        Icon = SpiffoSuitBlack,
+        RunSpeedModifier = 0.7,
+        ScratchDefense = 10,
+        Insulation = 0.85,
+        WindResistance = 0.6,
+        WorldStaticModel = SpiffoSuitBlack_Ground,
+    }
+    item SpiffoTail_Black
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Tail Black,
+        ClothingItem = SpiffoTail_Black,
+        BodyLocation = Tail,
+        Icon = SpiffoTailBlack,
+        WorldStaticModel = SpiffoTailBlack_Ground,
+    }
+   item SpiffoSuit_White
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit White,
+        ClothingItem = SpiffoSuit_White,
+        BodyLocation = FullSuit,
+        BloodLocation = Trousers;Jumper,
+        Icon = SpiffoSuitWhite,
+        RunSpeedModifier = 0.7,
+        ScratchDefense = 10,
+        Insulation = 0.85,
+        WindResistance = 0.6,
+        WorldStaticModel = SpiffoSuitWhite_Ground,
+    }
+    item SpiffoTail_White
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Tail White,
+        ClothingItem = SpiffoTail_White,
+        BodyLocation = Tail,
+        Icon = SpiffoTailWhite,
+        WorldStaticModel = SpiffoTailWhite_Ground,
+    }
+   item SpiffoSuit_Inverted
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Inverted,
+        ClothingItem = SpiffoSuit_Inverted,
+        BodyLocation = FullSuit,
+        BloodLocation = Trousers;Jumper,
+        Icon = SpiffoSuitInverted,
+        RunSpeedModifier = 0.7,
+        ScratchDefense = 10,
+        Insulation = 0.85,
+        WindResistance = 0.6,
+        WorldStaticModel = SpiffoSuitInverted_Ground,
+    }
+    item SpiffoTail_Inverted
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = Spiffo Suit Tail Inverted,
+        ClothingItem = SpiffoTail_Inverted,
+        BodyLocation = Tail,
+        Icon = SpiffoTailInverted,
+        WorldStaticModel = SpiffoTailInverted_Ground,
+    }
+  }
