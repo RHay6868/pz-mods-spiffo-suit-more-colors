@@ -58,10 +58,10 @@ Build 42 support will come in a future update via the `main` branch of this repo
 
 ---
 
-## 📜 License & Permissions
+## ⚠️ License & Permissions
 
-Do not copy, modify, redistribute, or repackage this mod without **explicit permission** from the creator.  
-This includes distribution on or off Steam, inclusion in other mods or modpacks, or modified versions.
+This mod is provided **for reference and personal use only**.  
+Do not copy, modify, redistribute, or repackage this mod without **explicit permission** from the creator.
 
 **Workshop ID**: 2792074336  
 **Mod ID**: SpiffoSuitsColors
