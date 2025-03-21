@@ -45,7 +45,7 @@ C:\Users\YourUsername\Zomboid\mods\
 
 - 🧵 [Steam Workshop Page](https://steamcommunity.com/sharedfiles/filedetails/?id=2792074336)  
 - 📦 [Build 41 Legacy Release](https://github.com/RHay6868/pz-mods-spiffo-suit-more-colors/releases/tag/vB41.0)  
-- 🛠 [Browse the GitHub Repo](https://github.com/RHay6868/pz-mods-spiffo-suit-more-colors)
+- 🛠 [Browse the Main Brach Github Repo](https://github.com/RHay6868/pz-mods-spiffo-suit-more-colors)
 
 ---
 
@@ -54,7 +54,7 @@ C:\Users\YourUsername\Zomboid\mods\
 This was my first public Project Zomboid mod! 🧡  
 It’s being preserved here as a stable version for Build 41 players and multiplayer servers.
 
-Build 42 support will come in a future update via the `main` branch of this repo — adapting to the new outfit, layering, and clothing systems introduced in B42.
+Build 42 support will come in a future update via the `main` branch of this repo.
 
 ---
 
@@ -63,11 +63,6 @@ Build 42 support will come in a future update via the `main` branch of this repo
 Do not copy, modify, redistribute, or repackage this mod without **explicit permission** from the creator.  
 This includes distribution on or off Steam, inclusion in other mods or modpacks, or modified versions.
 
-> This item may only be published on Steam through an account with the name **Mackus103**.  
-> If no permission is granted, this mod must be treated as being **on lockdown** — no alterations or forks are permitted.
-
-© 2022–2023 Mackus103
-
 **Workshop ID**: 2792074336  
 **Mod ID**: SpiffoSuitsColors
 
@@ -75,14 +70,14 @@ This includes distribution on or off Steam, inclusion in other mods or modpacks,
 
 ## ☕ Support My Work
 
-If you enjoyed this mod and want to support my future creations (or help keep Spiffo looking fly), feel free to [donate a Ko-fi](https://ko-fi.com/ryanhayes).  
+If you enjoyed this mod and want to support my future creations, feel free to [donate a Ko-fi](https://ko-fi.com/ryanhayes).  
 Every bit helps and means a lot! 💙
 
 And if you liked the mod, don’t forget to rate it on Steam!
 
 ---
 
-## 🧵 Other Mods by Me
+## 🧵 Mods by Me
 
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2950018687">
   <img src="https://images.steamusercontent.com/ugc/2015963598372661329/B17E7C7FCF04C48160BFB9E987C086EEED16497D/" width="160" style="margin: 4px;" title="Hayes Firearms Overhaul">
@@ -101,6 +96,9 @@ And if you liked the mod, don’t forget to rate it on Steam!
 </a>
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2792074336">
   <img src="https://images.steamusercontent.com/ugc/1816647644125465954/DE4DA8B080356B19B39B66016D9B1E4AFAF4A080/" width="160" style="margin: 4px;" title="Spiffo Suit - More Colors">
+</a>
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2928012665">
+  <img src="https://images.steamusercontent.com/ugc/1996818898453980605/F43907B8F8BD9F8614A44AADC1193EA4B0427B60/" width="160" style="margin: 4px;" title="Tarot Card Readings">
 </a>
 
 ---
